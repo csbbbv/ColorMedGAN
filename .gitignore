@@ -1,0 +1,12 @@
+*.jpg
+*.pth
+conference_images/
+Example/
+oasi_color_v2_results/
+results/
+seg_featuremap/
+segmentation/__pycache__/
+segmentation/checkpoint/
+segmentation/log/
+style/
+tmp/
